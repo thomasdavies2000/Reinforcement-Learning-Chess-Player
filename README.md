@@ -5,6 +5,8 @@ One of the most challenging assignments I had across my 3 years at Uni.
 
 Implementing and evaluating two different Reinforcement Learning algorithms (Deep Q Learning and SARSA).
 
+The Chess board was reduced to a 4x4 board with 3 pieces.
+
 
 
 [Some title here](Deep_Reinforcement_learning_assignment.pdf)
