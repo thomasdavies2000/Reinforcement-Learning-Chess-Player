@@ -9,4 +9,4 @@ The Chess board was reduced to a 4x4 board with 3 pieces.
 
 
 
-[Some title here](Deep_Reinforcement_learning_assignment.pdf)
+[Report can be found here](Deep_Reinforcement_learning_assignment.pdf)
